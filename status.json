@@ -1,1 +1,8 @@
-{ "status": "ok", "message": "" }
+{
+	"payload": {
+		"status": "ok",
+		"message": "",
+		"ts": 1781558632
+	},
+	"signature": "bRzae9D5Cifet6V5OxpwCG8YwBvFD0w+O5NaRgZb/ji31clwCVqe0MB3/nzSQRahIrl1U6p6aCFJWMhsIAhOCw=="
+}
